@@ -14,6 +14,25 @@
     border: none;
 }
 
+.heading-title {
+    text-align: center;
+    padding: 0 660px;
+    margin-bottom: 48px;
+}
+
+.heading-title h2 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.heading-title p {
+    color: #272727;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
 /* Header Section CSS Start */
 header {
     background: rgba(229, 84, 115, 0.10);
@@ -50,4 +69,55 @@ header {
 .banner-img img {
     display: block;
 }
+
 /* Header Section CSS End */
+/* Featured Section CSS Start */
+.featured-section {
+    padding: 120px 0;
+}
+
+.featured-items {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.featured-content {
+    text-align: center;
+}
+
+.featured-content a {
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.featured-img-one {
+    width: 460px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 110px;
+}
+
+.featured-img-two {
+    width: 460px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-top: 117px;
+    padding-bottom: 51px;
+}
+
+.featured-img-three {
+    width: 460px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 67px;
+}
+
+.featured-content img {
+    vertical-align: bottom;
+}
+
+/* Featured Section CSS End */
