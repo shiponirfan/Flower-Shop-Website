@@ -231,6 +231,7 @@ header {
     color: rgba(39, 39, 39, 0.60);
     font-size: 16px;
     margin-right: 16px;
+    border-radius: 8px;
 }
 
 /* Latest Deals Section CSS End */
