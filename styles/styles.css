@@ -180,3 +180,28 @@ header {
 }
 
 /* Instagram Section CSS End */
+/* Latest Deals Section CSS Start */
+.latest-deals {
+    border-radius: 8px;
+    background-image: url("../assets/images/Rectangle9.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 120px 0;
+    margin: 120px 0;
+}
+
+.latest-deals form {
+    display: flex;
+    justify-content: center;
+}
+
+.latest-deals form input[type="email"] {
+    padding: 22px;
+    border: none;
+    width: 700px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    margin-right: 16px;
+}
+
+/* Latest Deals Section CSS End */
