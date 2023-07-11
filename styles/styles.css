@@ -121,3 +121,53 @@ header {
 }
 
 /* Featured Section CSS End */
+/* Services Section CSS Start */
+.services-section {
+    width: 1440px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.services-items {
+    padding: 80px 50px;
+}
+
+.services-items img {
+    margin-bottom: 25px;
+}
+
+.services-items h3 {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/* Services Section CSS End */
+/* Hot Deal Section CSS Start */
+.hot-deal {
+    background: rgba(229, 84, 115, 0.05);
+    margin: 120px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 240px;
+}
+
+.hot-deal-title {
+    padding: 0;
+    margin: 0;
+}
+
+.hot-deal-title span {
+    color: #E55473;
+}
+
+.hot-deal-title button {
+    margin-top: 30px;
+}
+
+/* Hot Deal Section CSS End */
