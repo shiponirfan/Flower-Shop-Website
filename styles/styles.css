@@ -16,7 +16,6 @@
 
 .heading-title {
     text-align: center;
-    padding: 0 660px;
     margin-bottom: 48px;
 }
 
@@ -158,7 +157,6 @@ header {
 }
 
 .hot-deal-title {
-    padding: 0;
     margin: 0;
 }
 
@@ -205,3 +203,36 @@ header {
 }
 
 /* Latest Deals Section CSS End */
+/* Footer Section CSS Start */
+footer {
+    background: #111010;
+    padding: 180px;
+}
+
+.footer-title {
+    text-align: center;
+}
+
+.footer-title h2 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.footer-title h2 span {
+    color: #E55473;
+}
+
+.footer-title p {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    line-height: 30px;
+    margin: 25px 0;
+}
+
+.footer-title h4 {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+}
+
+/* Footer Section CSS End */
