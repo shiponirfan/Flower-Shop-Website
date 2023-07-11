@@ -171,3 +171,12 @@ header {
 }
 
 /* Hot Deal Section CSS End */
+/* Instagram Section CSS Start */
+.instagram-images {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+/* Instagram Section CSS End */
