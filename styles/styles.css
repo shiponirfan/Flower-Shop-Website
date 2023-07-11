@@ -146,6 +146,37 @@ header {
 }
 
 /* Services Section CSS End */
+/* Latest Flower Section CSS Start */
+.latest-flower {
+    margin-top: 120px;
+}
+
+.flower-items {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.flower-item {
+    width: 342px;
+    text-align: center;
+}
+
+.flower-item h3 {
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.flower-item p {
+    color: #272727;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 20px 0;
+}
+
+/* Latest Flower Section CSS End */
 /* Hot Deal Section CSS Start */
 .hot-deal {
     background: rgba(229, 84, 115, 0.05);
